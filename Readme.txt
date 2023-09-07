@@ -1,3 +1,12 @@
+Configura la información del usuario para todos los respositorios locales
+
+
+git config --global user.name "[name]"			Establece el nombre que estará asociado a tus commits
+
+$ git config --global user.email "[email address]" 	Establece el e-mail que estará asociado a sus commits
+
+https://training.github.com/downloads/es_ES/github-git-cheat-sheet/
+
 git add 			añade a git 
 git add .			añade todo a git
 git commit -m "" 		saca foto y comenta 
